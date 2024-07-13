@@ -4,10 +4,10 @@
 
 - <b>Final Year Dissertation Project</b>
   - Evaluating and Enhancing anomaly detection in cryptocurrency transactions
-- <b>TBA</b>
-  - TBA
-- <b>PowerShell</b>
-  - TBA
+- <b>Digital Forensics </b>
+  - Digital Forensics Crime Scene Creation: 
+- <b>Penetration Testing</b>
+  - Metasploitable 2 Penetration Test
   - TBA
   - TBA
   - TBA
