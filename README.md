@@ -17,10 +17,8 @@ Ahmed.muhammad2901@gmail.com
 
 <h2>👨‍💻 Cyber-Security Projects:</h2>
 
-- <b>Final Year Dissertation Project</b>
-  - Evaluating and Enhancing anomaly detection in cryptocurrency transactions
 - <b>Digital Forensics </b>
-  - Digital Forensics Crime Scene Creation: 
+  - Digital Forensics Crime Scene Creation: Stay tuned!
 - <b>Penetration Testing</b>
   - <a href="https://github.com/AhmedIrfan198/Penetration-Test-of-Metasploitable-2">Metasploitable 2 Penetration Test</a>
   - TBA
