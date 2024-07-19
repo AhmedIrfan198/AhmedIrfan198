@@ -23,7 +23,8 @@ Ahmed.muhammad2901@gmail.com
   - <a href="https://github.com/AhmedIrfan198/Penetration-Test-of-Metasploitable-2">Metasploitable 2 Penetration Test</a>
   - TBA
   - TBA
-  - TBA
+- <b>GRC Projects</b>
+  - <a href="https://github.com/AhmedIrfan198/Metasploitable-2-Risk-Assessment-and-Mitigation">Risk Assessment of Metasploitable 2: Using ISO 27001 Framework</a> 
 
 <h2>👨‍💻 My Certifications and Work experience:</h2>
 
