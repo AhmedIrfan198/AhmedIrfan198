@@ -18,7 +18,7 @@ Ahmed.muhammad2901@gmail.com
 <h2>👨‍💻 Cyber-Security Projects:</h2>
 
 - <b>Digital Forensics </b>
-  - Digital Forensics Crime Scene Creation: Stay tuned!
+  - <a href="https://github.com/AhmedIrfan198/Digital-Forensics-Crime-Scene-Creation">Digital Forensics Crime Scene Creation</a>
 - <b>Penetration Testing</b>
   - <a href="https://github.com/AhmedIrfan198/Penetration-Test-of-Metasploitable-2">Metasploitable 2 Penetration Test</a>
   - TBA
