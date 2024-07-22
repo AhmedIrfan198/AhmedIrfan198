@@ -17,16 +17,29 @@ Ahmed.muhammad2901@gmail.com
 
 <h2>👨‍💻 Cyber-Security Projects:</h2>
 
-- <b>Digital Forensics </b>
-  - <a href="https://github.com/AhmedIrfan198/Digital-Forensics-Crime-Scene-Creation">Digital Forensics Crime Scene Creation</a>
-- <b>Penetration Testing</b>
-  - <a href="https://github.com/AhmedIrfan198/Penetration-Test-of-Metasploitable-2">Metasploitable 2 Penetration Test</a>
-  - TBA
-  - TBA
-- <b>GRC Projects</b>
-  - <a href="https://github.com/AhmedIrfan198/Metasploitable-2-Risk-Assessment-and-Mitigation">Risk Assessment of Metasploitable 2: Using ISO 27001 Framework</a>
-- <b>Network Security</b>
-  - <a href="https://github.com/AhmedIrfan198/Network-Security-Logbook">Network Security Logbook of Tasks</a>
+- **Digital Forensics**
+  - [Digital Forensics Crime Scene Creation](https://github.com/AhmedIrfan198/Digital-Forensics-Crime-Scene-Creation)
+    - Created a simulated digital crime scene for forensic analysis.
+    - Documented the forensic process including evidence collection and analysis.
+    - Developed a comprehensive report detailing findings and methodologies.
+
+- **Penetration Testing**
+  - [Metasploitable 2 Penetration Test](https://github.com/AhmedIrfan198/Penetration-Test-of-Metasploitable-2)
+    - Conducted a penetration test on Metasploitable 2 to identify vulnerabilities.
+    - Successfully exploited identified vulnerabilities and documented the process.
+    - Provided recommendations for mitigating the discovered security weaknesses.
+
+- **GRC Projects**
+  - [Risk Assessment of Metasploitable 2: Using ISO 27001 Framework](https://github.com/AhmedIrfan198/Metasploitable-2-Risk-Assessment-and-Mitigation)
+    - Conducted a thorough risk assessment of Metasploitable 2 using the ISO 27001 framework.
+    - Identified and evaluated vulnerabilities, assessing their risks and impacts.
+    - Developed and documented mitigation strategies to enhance the system's security posture.
+
+- **Network Security**
+  - [Network Security Logbook of Tasks](https://github.com/AhmedIrfan198/Network-Security-Logbook)
+    - Documented various network security tasks including malware analysis and DoS attacks.
+    - Implemented defense measures and configured firewalls for different use cases.
+    - Analyzed and mitigated web security vulnerabilities, enhancing overall network security.
 
 <h2>👨‍💻 My Certifications and Work experience:</h2>
 
