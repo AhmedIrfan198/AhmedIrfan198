@@ -24,7 +24,9 @@ Ahmed.muhammad2901@gmail.com
   - TBA
   - TBA
 - <b>GRC Projects</b>
-  - <a href="https://github.com/AhmedIrfan198/Metasploitable-2-Risk-Assessment-and-Mitigation">Risk Assessment of Metasploitable 2: Using ISO 27001 Framework</a> 
+  - <a href="https://github.com/AhmedIrfan198/Metasploitable-2-Risk-Assessment-and-Mitigation">Risk Assessment of Metasploitable 2: Using ISO 27001 Framework</a>
+- <b>Network Security</b>
+  - <a href="https://github.com/AhmedIrfan198/Network-Security-Logbook">Network Security Logbook of Tasks</a>
 
 <h2>👨‍💻 My Certifications and Work experience:</h2>
 
