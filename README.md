@@ -1,6 +1,6 @@
-<h1>Hi, I'm Muhammad! Welcome To My Portfolio</h1>
+<h1>Hi, I'm Irfan! Welcome To My Portfolio</h1>
 
-Hello and welcome to my GitHub portfolio! I'm Muhammad Ahmed, a cybersecurity enthusiast and recent graduate with a first-class honours degree in Computer Security and Forensics. Here, you will find a collection of my projects, demonstrating my skills in threat detection, incident response, forensic analysis, and more.
+Hello and welcome to my GitHub portfolio! I'm Irfan Ahmed, a cybersecurity enthusiast and recent graduate with a first-class honours degree in Computer Security and Forensics. Here, you will find a collection of my projects, demonstrating my skills in threat detection, incident response, forensic analysis, and more.
 
 My journey in cybersecurity has been fueled by a passion for protecting information and ensuring digital safety. From developing detailed security assessments to conducting vulnerability testing and forensic investigations, my work reflects a deep commitment to the field.
 
