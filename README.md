@@ -22,6 +22,16 @@ Ahmed.muhammad2901@gmail.com
     - Created a simulated digital crime scene for forensic analysis.
     - Documented the forensic process including evidence collection and analysis.
     - Developed a comprehensive report detailing findings and methodologies.
+    - 
+  - [Digital Forensics and eDiscovery Portfolio]()
+  - Completed a comprehensive digital forensics project as part of my university coursework, demonstrating practical skills in digital forensics and eDiscovery.
+  - Conducted an imaging exercise verifying forensic images, managing EWF/E01 image files, and performing dual tool verification using FTK Imager and FTK Forensic Toolkit.
+  - Executed a simulated evidence search in a controlled environment, documenting the process with detailed diagrams and photographs, and creating an Exhibits Record table.
+  - Performed thorough digital evidence analysis, answering specific forensic questions posed by the Crown Prosecution Service (CPS), and producing an expert witness statement in MG11-style format.
+  - Achieved a score of 75% for the project, demonstrating a strong understanding and application of digital forensics principles and methodologies.
+  - Utilized industry-standard tools such as FTK Imager, FTK Forensic Toolkit, and CyberDefenders challenges to showcase practical skills.
+  - Developed detailed reports for each project, highlighting methodologies, findings, and technical expertise.
+
 
 - **Penetration Testing**
   - [Metasploitable 2 Penetration Test](https://github.com/AhmedIrfan198/Penetration-Test-of-Metasploitable-2)
