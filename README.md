@@ -17,11 +17,17 @@ Ahmed.muhammad2901@gmail.com
 
 <h2>👨‍💻 Cyber-Security Projects:</h2>
 
+- **Cloud Security**
+  - [Exploring Azure Sentinel: A Hands-On Lab for Cybersecurity]()
+    -  Designed and implemented a hands-on lab to configure Azure Sentinel as a Security Information and Event Management (SIEM) system.
+    -  Integrated data connectors to ingest Windows Security Event logs, enabling real-time monitoring and analysis.
+    -  Developed and executed KQL (Kusto Query Language) queries to detect malicious activity, including logon events mapped to the MITRE ATT&CK framework.
+    -  Demonstrated threat detection and response workflows, highlighting best practices for securing cloud-based environments. 
 - **Digital Forensics**
   - [Digital Forensics Crime Scene Creation](https://github.com/AhmedIrfan198/Digital-Forensics-Crime-Scene-Creation)
-    - Created a simulated digital crime scene for forensic analysis.
-    - Documented the forensic process including evidence collection and analysis.
-    - Developed a comprehensive report detailing findings and methodologies.
+    - Developed and executed a comprehensive digital foreniscs case scenario using advanced tools like Autopsy, VeraCrypt, and FTK Imager, to simulate a real-world cybercrime investigation, enhancing skills in evidence collection, analysis, and legal compliance. 
+    - Conducted detailed forensic analysis of digital artefacts, including encrypted files and steganographic content, to uncover hidden data and establish a timeline of criminal activities, contributing to the simulated prosection process. 
+    - Applied knowledge of relevant legislation, including the Protection from Harassment Act and Criminal Justice and Courts Act to ensure the forensic investigation adhered to legal standards, supporting a realistic and legally sound case study.
       
   - [Digital Forensics and eDiscovery Portfolio](https://github.com/AhmedIrfan198/Digital-Forensics-Portfolio-of-Tasks)
     - Completed a comprehensive digital forensics project as part of my university coursework, demonstrating practical skills in digital forensics and eDiscovery.
