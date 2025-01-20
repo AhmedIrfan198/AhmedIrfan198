@@ -18,7 +18,7 @@ Ahmed.muhammad2901@gmail.com
 <h2>👨‍💻 Cyber-Security Projects:</h2>
 
 - **Cloud Security**
-  - [Exploring Azure Sentinel: A Hands-On Lab for Cybersecurity]()
+  - [Exploring Azure Sentinel: A Hands-On Lab for Cybersecurity](https://github.com/AhmedIrfan198/Exploring-Azure-Sentinel-A-Hands-On-Lab-for-Cybersecurity)
     -  Designed and implemented a hands-on lab to configure Azure Sentinel as a Security Information and Event Management (SIEM) system.
     -  Integrated data connectors to ingest Windows Security Event logs, enabling real-time monitoring and analysis.
     -  Developed and executed KQL (Kusto Query Language) queries to detect malicious activity, including logon events mapped to the MITRE ATT&CK framework.
